@@ -39,3 +39,10 @@ yarn-error.log*
 *.tmp
 *.temp
 uploaded_video.mp4
+
+# Model files (too large for GitHub)
+*.pth.tar
+*.pth
+*.h5
+*.pkl
+backend/assets/*.pth.tar
